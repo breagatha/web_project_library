@@ -46,11 +46,10 @@
 
 .header__content {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .header__title {
-  margin-left: 80px;
   margin-top: 128px;
   margin-bottom: 32px;
   font-size: 62px;
@@ -60,7 +59,6 @@
 }
 
 .header__description {
-  margin-left: 80px;
   margin-top: 32px;
   font-size: 20px;
   line-height: 30px;
