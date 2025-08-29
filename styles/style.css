@@ -46,11 +46,12 @@
 
 .header__content {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .header__title {
   margin-left: 80px;
+  margin-top: 128px;
   margin-bottom: 32px;
   font-size: 62px;
   line-height: 76px;
