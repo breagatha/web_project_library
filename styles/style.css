@@ -248,33 +248,31 @@
 
 .person_name_feynman {
   position: absolute;
-  top: 0px;
-  bottom: 0px;
+  top: -30px;
   left: 319px;
-  right: 319px;
 }
 
 .person_name_burbidge {
   position: absolute;
+  top: 96px;
   right: 125px;
-  top: 126px;
 }
 
 .person_name_cannon {
   position: absolute;
-  bottom: 78px;
-  right: 236px;
+  bottom: 18px;
+  right: 216px;
 }
 
 .person_name_mitchell {
   position: absolute;
-  bottom: 112px;
+  bottom: 82px;
   left: 142px;
 }
 
 .person_name_tarter {
   position: absolute;
-  top: 109px;
+  top: 79px;
   left: 159px;
 }
 
@@ -301,15 +299,17 @@
   position: absolute;
   text-align: center;
   font-size: 14px;
-  margin: -30px;
+  margin: 0px;
+  top: -24px;
+  width: 100%;
 }
 
 .person__caption_bottom {
-  position: relative;
-  bottom: 5px;
+  top: auto;
+  bottom: -24px;
 }
 
 .person__caption_bottom_cannon {
-  position: relative;
+  top: auto;
   bottom: -30px;
 }
