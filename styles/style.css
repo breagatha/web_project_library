@@ -402,7 +402,7 @@
 
 .footer__column-link {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   column-gap: 10px;
   color: white;
   text-decoration: none;
