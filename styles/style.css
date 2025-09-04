@@ -325,7 +325,7 @@
   margin: 0 auto;
   text-align: center;
   font-size: 44px;
-  font-weight: bold;
+  font-weight: 500;
   line-height: 52px;
 }
 
@@ -363,7 +363,7 @@
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
-  color: #f2f2f2;
+  color: #ffffff;
   padding: 60px 80px;
 }
 
