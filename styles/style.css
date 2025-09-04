@@ -387,27 +387,29 @@
 
 .footer__column-heading {
   margin-bottom: 20px;
+  margin-top: auto;
 }
 
 .footer__list {
-  gap: 16px;
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
 
 .footer__list-item {
-  gap: 16px;
+  margin-bottom: 16px;
 }
 
 .footer__column-link {
+  display: flex;
+  align-items: flex-start;
+  column-gap: 10px;
   color: white;
   text-decoration: none;
-  margin-right: 10px;
+  margin-bottom: 16px;
 }
 
 .footer__social-icon {
-  gap: 16px;
   width: 16px;
   height: 16px;
 }
